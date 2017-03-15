@@ -1,0 +1,3 @@
+[submodule "suresecure-protos"]
+	path = suresecure-protos
+	url = https://github.com/suresecure/suresecure-protos.git
